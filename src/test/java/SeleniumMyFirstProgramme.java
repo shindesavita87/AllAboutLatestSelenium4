@@ -19,7 +19,7 @@ public class SeleniumMyFirstProgramme {
  
         //sendKeys method is used to type
         driver.findElement(By.name("userName")).sendKeys("savita20");
-        driver.findElement(By.name("password")).sendKeys("@Savita20");
+        driver.findElement(By.name("password")).sendKeys("*****");
  
         //click is used to click
         driver.findElement(By.name("submit")).click();
